@@ -24,4 +24,4 @@ Also known locally as the “Old Altavista Elementary”
 
 Phone: 434-369-6344
 
-View Larger Map
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12726.119925882347!2d-79.29584890000001!3d37.116304400000004!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b677ff619f4d5b%3A0x47f0e4e6cb8715e4!2sGrace+Community+Church!5e0!3m2!1sen!2sus!4v1509908229703" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>

@@ -8,14 +8,14 @@ We are glad that you are seeking to get to know us a little better.  As you navi
 
  
 
-Sunday Service Times
+#### Sunday Service Times
 
 9:30 – Sunday School/Fellowship  
 10:30 – Worship
 
 
 
-Location
+#### Location
 
 911 Grace Avenue  
 Altavista, VA 24517

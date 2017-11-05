@@ -17,7 +17,8 @@ Sunday Service Times
 
 Location
 
-911 Grace Avenue  Altavista, VA 24517
+911 Grace Avenue  
+Altavista, VA 24517
 
 Also known locally as the “Old Altavista Elementary”
 

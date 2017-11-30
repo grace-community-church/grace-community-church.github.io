@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About Us
-permalink: /about/
+title: Giving
+permalink: /giving/
 ---
 
 # Giving

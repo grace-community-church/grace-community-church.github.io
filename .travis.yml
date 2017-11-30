@@ -12,7 +12,6 @@ script:
 - bundle install
 - bundle exec jekyll build
 - rsync -e "ssh -i ssh_key" _site/ admingcc@william-few.dreamhost.com:/home/admingcc/vagrace.org/
-
 addons:
-  ssh_known_hosts: 
-    - william-few.dreamhost.com
+  ssh_known_hosts:
+  - william-few.dreamhost.com

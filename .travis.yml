@@ -8,4 +8,5 @@ rvm:
 script:
   bundle install
   bundle exec jekyll build
-  scp -r _site/ admingcc@william-few.dreamhost.com:/home/admingcc/vagrace.org/
+  echo $SSH_KEY >> ssh_key
+  rsync -e "ssh -i ssh_key" _site/ admingcc@william-few.dreamhost.com:/home/admingcc/vagrace.org/

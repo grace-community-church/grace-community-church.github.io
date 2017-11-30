@@ -6,7 +6,7 @@ branches:
 rvm:
 - 2.2.3
 script:
-  bundle install
-  bundle exec jekyll build
-  echo $SSH_KEY >> ssh_key
-  rsync -e "ssh -i ssh_key" _site/ admingcc@william-few.dreamhost.com:/home/admingcc/vagrace.org/
+  - bundle install
+  - bundle exec jekyll build
+  - echo $SSH_KEY >> ssh_key
+  - rsync -e "ssh -i ssh_key" _site/ admingcc@william-few.dreamhost.com:/home/admingcc/vagrace.org/

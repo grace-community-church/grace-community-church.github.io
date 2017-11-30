@@ -16,6 +16,6 @@ There are several ways to donate to Grace Community Church:
 
 3. You can mail your donation to:
 
-  Grace Community Church 
-  911 Grace Ave. 
+  Grace Community Church  
+  911 Grace Ave.  
   Altavista, VA  24517

@@ -5,6 +5,9 @@ branches:
   - production
 rvm:
 - 2.2.3
+
+before_script:
+  - gem install jekyll
 script:
   - bundle install
   - bundle exec jekyll build

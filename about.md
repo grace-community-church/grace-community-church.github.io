@@ -26,7 +26,7 @@ Grace Community Church was an SBCV church plant and began its journey Easter of 
 
 David Sage — Elder  
 Larry Grafton — Elder
-Joe Short - Elder
+Joe Short — Elder
 Kathy Marden — Administrator  
 Ryan Heathcote — Technical Administrator  
 Les Plymale - Leader of Worship, Site Administrator

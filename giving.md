@@ -1,3 +1,9 @@
+---
+layout: default
+title: About Us
+permalink: /about/
+---
+
 # Giving
 Thank you for your support to Grace Community Church. Because of your financial support and generosity, you have planted the seeds that will enable Grace to grow in our community, and provide a church home for you and others. Thank you for answering the call to contribute to God’s work here at Grace Community Church.
 

@@ -5,13 +5,14 @@ branches:
 rvm:
 - 2.2.3
 before_install:
-- mkdir ~\/.ssh
 - openssl aes-256-cbc -K $encrypted_3969df2ed48f_key -iv $encrypted_3969df2ed48f_iv
-  -in known_hosts.enc -out ~\/.ssh\/known_hosts -d
-- openssl aes-256-cbc -K $encrypted_3969df2ed48f_key -iv $encrypted_3969df2ed48f_iv
-  -in ssh_key.enc -out ~\/.ssh\/id_rsa -d
+  -in ssh_key.enc -out ssh_key -d
 - gem install jekyll
 script:
 - bundle install
 - bundle exec jekyll build
-- rsync _site/ admingcc@william-few.dreamhost.com:/home/admingcc/vagrace.org/
+- rsync -e "ssh -i ssh_key" _site/ admingcc@william-few.dreamhost.com:/home/admingcc/vagrace.org/
+
+addons:
+  ssh_known_hosts: 
+    - william-few.dreamhost.com

@@ -8,6 +8,7 @@ before_install:
 - openssl aes-256-cbc -K $encrypted_3969df2ed48f_key -iv $encrypted_3969df2ed48f_iv
   -in ssh_key.enc -out ssh_key -d
 script:
+- bundle install
 - bundle exec jekyll build
 - rsync -e "ssh -i ssh_key" _site/ admingcc@william-few.dreamhost.com:/home/admingcc/vagrace.org/
 addons:

@@ -1,0 +1,11 @@
+language: ruby
+# only run CI-builds on master branch
+branches:
+  only:
+  - production
+rvm:
+- 2.2.3
+script:
+  bundle install
+  bundle exec jekyll build
+  scp -r _site/ admingcc@william-few.dreamhost.com:/home/admingcc/vagrace.org/

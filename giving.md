@@ -10,7 +10,7 @@ Thank you for your support to Grace Community Church. Because of your financial 
 There are several ways to donate to Grace Community Church:
 
 1. We offer safe and secure online giving: 
-    [Click Here to Give Online](https://www.lifewayegiving.org/dl/?uid=grac911197)
+    [Click Here to Give Online](https://www.easytithe.com/dl/?uid=grac911197)
 
 2. We have a donation box in the back of the sanctuary where you can leave your offering.
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Welcome
-permalink:
+permalink: /index
 ---
 We are glad that you are seeking to get to know us a little better.  As you navigate through each area of our site, our hope is that you can get a feel for our love and passion for God and each other.  We would love to have you join us for worship.  If you would like more information or have any questions about God, Salvation or GCC, please contact us.  We look forward to hearing from you!
 

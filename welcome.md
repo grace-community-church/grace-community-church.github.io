@@ -9,7 +9,7 @@ We are glad that you are seeking to get to know us a little better.  As you navi
 
 #### Sunday Service Times
 
-9:15 am – Sunday School/Fellowship in Cafe
+9:15 am – Sunday School/Fellowship in Cafe  
 10:30 am – Worship
 
 
